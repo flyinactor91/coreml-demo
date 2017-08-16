@@ -15,6 +15,11 @@ Orlando iOS Meetup - 2017-08-16
 [CoreML applied to downloaded images](https://github.com/ahmetws/UnsplashExplorer-CoreML)
 [All iOS 11 big new features](https://github.com/artemnovichkov/iOS-11-by-Examples#core-ml)
 
+## MLModel Sources
+
+[MobileML](http://mobileml.com)
+[MLModel Zoo](https://mlmodelzoo.com)
+
 ## Tools
 
 [coremltools on PyPI](https://pypi.python.org/pypi/coremltools)
